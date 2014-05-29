@@ -11,9 +11,8 @@ Target-
 Android API Level 17 (Android 4.04 and above)
 
 ### Contributors:
-Siddharth Kumar- siddarth306@gmail.com 
-
 Shashi Mishra- shashi.mishra43@gmail.com
+Siddharth Kumar- siddarth306@gmail.com 
 
 Installation
 -------------
